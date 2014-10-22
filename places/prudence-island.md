@@ -3,7 +3,7 @@
 
 Here’s a 5min film to give a sense of Prudence:
 
-
+<iframe src="//player.vimeo.com/video/29173413" width="500" height="375" frameborder="0" title="Spend a day with your mountain bike on Prudence Island" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 
 Prudence Island is the largest island in the middle of Narragansett Bay with no bridge. There is daily ferry service from Bristol. The island is about 1.5 miles wide at the widest and about 7 miles long with about 2/3 under conservation or state control. When you look west as you go over the Mount Hope Bridge, you look over Hog to Prudence. From the Newport Bridge looking north, you see it centered in the bay.
 
