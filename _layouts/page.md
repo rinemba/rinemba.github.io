@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>RI NEMBA by rinemba</title>
+    <title>RI NEMBA</title>
 
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/pygment_trac.css">
@@ -23,8 +23,11 @@
 
       </header>
       <section>
-      {% content %}
       </section>
+      <footer>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
       </div>
+      <script src="javascripts/scale.fix.js"></script>
     </body>
   </html>
