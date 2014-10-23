@@ -5,6 +5,8 @@ Big River is a large tract (8600 acres) of land governed by Water Resources Boar
 
 Around every Earth Day over the past several years (a weekend in April) a sizable group of NEMBAites and other environmental minded groups get together to help clean some of the rubbish out of Big River. 2008 turned out 100 volunteers filling 8 dumpsters with mostly historic trash from old homesteads deep in the woods, abondoned cars and tire dumps. Here’s a short film of our 2013 efforts (80 volunteers/3 hours/3 dumpsters) 2013 Big River Clean-Up
 
+<iframe src="//player.vimeo.com/video/64631624" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/64631624">2013 Big River Cleanup</a> from <a href="http://vimeo.com/user6820818">Peter Gengler</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 When the use guidelines were written for Big River mountain biking did not exist. In early 2010 mountain biking in Big River was made legal through a bill in the house spearheaded by Representative Ray Sullivan. New use guidelines are being drafted that will likely be similar to Arcadia for riding in Big River.
 
 We continue to take a proactive approach working with the WRB on projects like the cleanup.
