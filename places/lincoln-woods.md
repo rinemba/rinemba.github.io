@@ -1,3 +1,8 @@
+---
+"body-class": places
+layout: page
+---
+
 # Lincoln Woods
 
 Lincoln Woods State Park is a 627 acre refuge located 5 miles north of Providence, RI off of route 146. This State Park closest to RI’s capital is a refuge for city dwelling mountain bikers, hikers, climbers, geocachers, equestrians, anglers and kayakers. There is a public beach on the property, as well as ball fields, stables and 92 picnic areas available by permit. The park is open all year, and is closed at sunset daily (yep, that means no night riding!). As always please use common sense during mud season. The trails drain exceptionally well, but there is still a small window every spring when the trails should be left alone. If you are in doubt please ride the road, or scout it out first.

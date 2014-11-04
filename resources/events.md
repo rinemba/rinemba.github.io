@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # 2014 Events Calendar
 
 ## Fun Rides

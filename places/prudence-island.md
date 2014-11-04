@@ -1,3 +1,8 @@
+---
+"body-class": places
+layout: page
+---
+
 # Prudence Island
 
 

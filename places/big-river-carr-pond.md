@@ -1,3 +1,8 @@
+---
+"body-class": places
+layout: page
+---
+
 # Big River & Carr Pond
 img_0174-copy_3.jpgimg_0056_2.jpgbr-bridges.jpg
 

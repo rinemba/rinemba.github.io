@@ -1,3 +1,8 @@
+---
+"body-class": places
+layout: page
+---
+
 # Weetamoe Woods
 I wanted to post some introductory information on Weetamoo Woods (WW) in Tiverton for riders that haven’t been there. It’s a beautiful 620 acre space bordered by the 220 acre Pardon Grey Preserve, both of which are managed by the town. Currently, there is no hunting.
 I’ve ridden there about 15 times, and have found it to be a nice alternative.

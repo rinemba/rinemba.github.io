@@ -1,4 +1,9 @@
-Arcadia Management Area
+---
+"body-class": places
+layout: page
+---
+
+# Arcadia Management Area
 img_1305.jpgimg_1328.jpg
 
 Arcadia Management Area is the largest open space with mountian bike access in the state. It boasts over 14,000 acres of forest with untold amounts of mountain bike trails. Truly untold, with one wrong turn you’re off on a three hour ramble on old unmarked dirtbike trails. Arcadia is not a place for the novice to explore alone.

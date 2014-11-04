@@ -1,8 +1,10 @@
+---
+layout: page
+---
+
 # Ticks
 
-
 not this kind …… this kind:
-
 
 
 more detail and kinds:

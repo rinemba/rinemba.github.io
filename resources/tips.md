@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Tips for Group Rides
 
 

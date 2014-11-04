@@ -1,3 +1,8 @@
+---
+"body-class": places
+layout: page
+---
+
 #North / South Trail
 Are you looking for an epic mtb ride to do with friends?
 

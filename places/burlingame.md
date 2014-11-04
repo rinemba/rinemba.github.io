@@ -1,3 +1,8 @@
+---
+"body-class": places
+layout: page
+---
+
 # Burlingame State Park
 
 Burlingame State Park is located on Prosser Trail Rd just off of US Route 1 in Charlestown, RI. Free year round parking is easy to find, and the trails are a short ride from the Picnic Area parking lot. Additionally, the adjoining Burlingame Campground is a well known and popular campground if you feel like staying over. The campground is open from April 15th until October 31st, every year. The park offers about 17 miles of singletrack mountain bike trails, some of which include parts of the North South Trail. There is also a 5 mile loop of mostly doubletrack hills directly accessible on the north, in the Burlingame Management Area.

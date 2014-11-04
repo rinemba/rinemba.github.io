@@ -1,4 +1,9 @@
+---
+layout: page
+---
+
 # Visiting Riders
+
 Welcome to our humble state, little Rhodie, the size of a county in many other states! Maybe you’re renting a cottage for a week near the beach or traveling through RI for a business meeting. Welcome!
 
 Don’t be fooled by our size, despite this fact we have some really nice trail networks here. Arcadia, Big River, Burlingame, Lincoln Woods & Prudence Island all offer good varied riding. Epic rides can had at the first two, of easily 30 miles if you are so moved so you can be assured of a good sleep after a local meal of clear chowda and clam bombs and maybe a cabinet. While Burlingame and Lincoln Woods are smaller, they have great trails some of which will challenge expert riders. Prudence Island is a different kind of destination all together with ferry only access.

@@ -1,7 +1,7 @@
 # Site settings
-title: Code Island
-email: info@code-island.org
+title: RI NEMBA
+email: alex@goldenmeanie.net
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://code-island.org" # the base hostname & protocol for your site
+url: "http://rinemba.org" # the base hostname & protocol for your site
 
 permalink: article/:title

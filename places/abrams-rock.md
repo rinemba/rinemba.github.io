@@ -1,3 +1,9 @@
+---
+"body-class": places
+layout: page
+category: place
+---
+
 # Abram’s Rock
 
 Swansea Mass
@@ -16,4 +22,4 @@ Village Park features several unusual rock formations (aka “pudding-stones”)
 Trail system maintained by the folks at BikeWorks (Bob & Matt) and their gang (Chris, Marco and sidekick son Ethan, Dan, John, Steve, and many more).
 Mapping done by Steve Rebello (http://ommbtrailreports.blogspot.com)
 
- 
+
