@@ -1,7 +1,6 @@
 ---
 layout: post
 title: August 2014 Meeting Minutes
-excerpt: "Minutes of the RI NEMBA chapter meeting. Held Tuesday, Aug. 5 7:00 PM at Doherty’s. 6 in attendance."
 ---
 
 Minutes of the RI NEMBA chapter meeting. Held Tuesday, Aug. 5 7:00 PM at Doherty’s. 6 in attendance.
