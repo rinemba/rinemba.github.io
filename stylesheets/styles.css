@@ -9,7 +9,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
-  margin:0 0 20px;
+  margin: .25em 0 0 0;
 }
 
 p, ul, ol, table, pre, dl {
@@ -28,6 +28,8 @@ h2 {
   color:#393939;
 }
 h2 em {
+  color: ;
+  font-style: normal;
   font-weight: normal;
   margin: 0 .5em;
 }
@@ -100,10 +102,13 @@ img {
   max-width:100%;
 }
 
+/* Header styles */
+
 header {
   width:270px;
   float:left;
   /*position:fixed;*/
+  text-align: center;
 }
 header .logo {
   /*background: red;*/
@@ -177,21 +182,40 @@ header ul a strong {
   color:#222;
 }
 
+/* Navigation */
+
 header nav a {
+  border-top: 1px solid #39c; 
   display: block;
   padding: 5px;
+  text-align: left;
+}
+header nav a:first-child {
+  border: 0;
 }
 nav nav {
   display: none;
 }
-.places .nav-places,
+.place .nav-places,
 .rides .nav-rides {
   display: block;
-  margin-left: 1em;
+  text-align: left;
 }
 nav nav a {
-  padding: 2px 5px;
+  padding: .25em 1.5em;
 }
+
+/* Weekly Rides */
+
+.weekly-ride {
+  border-bottom: 1px solid #ededed;
+  margin: 0 0 1.25em;
+}
+
+.zzz {
+  display: none;
+}
+
 section {
   width:500px;
   float:right;
