@@ -1,5 +1,5 @@
 ---
-"body-class": places
+"body-class": place
 layout: page
 category: place
 ---
