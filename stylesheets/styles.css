@@ -244,7 +244,9 @@ footer {
 
 /*Posts on home page*/
 .posts .time-stamp {
+  color: #bcbcbc;
   font-weight: normal;
+  margin-top: -1em; 
 }
 
 
